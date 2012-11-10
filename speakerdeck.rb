@@ -7,7 +7,7 @@
         end
 
         def render(context)
-            %(<script async class="speakerdeck-embed" data-id="#{@id}" src="//speakerdeck.com/assets/embed.js"></script>)
+            %(<script async class="speakerdeck-embed" data-id="#{@id.strip}" src="//speakerdeck.com/assets/embed.js"></script>)
         end
 
     end
