@@ -9,5 +9,5 @@ Usage
 -----
 
 1. Install `speakerdeck.rb` to your `plugins` folder.
-2. Put `{% speakerdeck ID%}` in the post/post Markdown file.
+2. Put `{% speakerdeck ID %}` in the post/post Markdown file.
 
